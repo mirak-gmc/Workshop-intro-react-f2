@@ -1,0 +1,11 @@
+.red {
+  color: red;
+}
+
+.user-container {
+  display: flex;
+  padding: 1rem;
+  border: 1px solid rgba(0, 0, 0, 0.175);
+  justify-content: space-between;
+}
+
